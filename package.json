@@ -1,5 +1,5 @@
 {
-  "name": "e-commerce-back-end",
+  "name": "unit-13-e-commerce-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/senait77/E-commerce-Back-End.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {

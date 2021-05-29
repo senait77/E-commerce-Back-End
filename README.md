@@ -1,6 +1,9 @@
 # E-commerce-Back-End
+
+
 <h1 align="center">Object-Relational Mapping (ORM): E-Commerce Back End 👋</h1>
   
+qui
   
 <p align="center">
     <img src="https://img.shields.io/badge/Javascript-yellow" />
@@ -15,18 +18,18 @@
 🔍 A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
   
 💻 Below is the gif showing the functionality of the application:
-  
 
-## Table of Contents
-- [Description](#description)
-- [User Story](#user-story)
-- [Acceptance Criteria](#acceptance-criteria)
-- [License](#License)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [Questions](#questions)
+
+🎥![GET All Categories products and tags](https://www.youtube.com/watch?v=jKRF7f0SeKQ&t=29s)
+
+🎥![GET single categories, single product and single tag](https://www.youtube.com/watch?v=SB5ljLqZlso)
+
+🎥![POST PUT DELETE Categories](https://www.youtube.com/watch?v=1O0LtFEks1o)
+
+🎥![POST PUT DELETE Products](https://www.youtube.com/watch?v=wx0RgfW1xeE)
+
+🎥![POST PUT DELETE Tags](https://www.youtube.com/watch?v=rArfPSaNfZs)
+
 
 ## User Story
   
@@ -51,9 +54,17 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
-
-## License
-
+  
+## Table of Contents
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#testing)
+- [Contributing](#contributing)
+- [Questions](#questions)
 
 ## Installation
 💾   
@@ -86,10 +97,10 @@ Enter PW when promted
 ## Testing
 ✏️
 
-No testing is currently set up
+No testing is currently set up.
 
 ## Contributing
-:octocat: [Senait T Gerezgiher](https://github.com/senait77/E-commerce-Back-End)
+I would be pleased to talk with any on who loves to contribute.
 
 ## Questions
-✉️ Contact me with any questions: [email](senutekie77@gmail.com) , [GitHub](https://github.com/senait77/E-commerce-Back-End)<br />
+✉️ Contact me with any questions: [email](senutekie77@gmail.com) , [GitHub](https://github.com/senait77)<br />
