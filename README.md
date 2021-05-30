@@ -3,7 +3,6 @@
 
 <h1 align="center">Object-Relational Mapping (ORM): E-Commerce Back End 👋</h1>
   
-qui
   
 <p align="center">
     <img src="https://img.shields.io/badge/Javascript-yellow" />
