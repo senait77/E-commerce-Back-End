@@ -20,15 +20,15 @@ qui
 💻 Below is the gif showing the functionality of the application:
 
 
-🎥![GET All Categories products and tags](https://www.youtube.com/watch?v=jKRF7f0SeKQ&t=29s)
+🎥[GET All Categories products and tags](https://www.youtube.com/watch?v=jKRF7f0SeKQ&t=29s)
 
-🎥![GET single categories, single product and single tag](https://www.youtube.com/watch?v=SB5ljLqZlso)
+🎥[GET single categories, single product and single tag](https://www.youtube.com/watch?v=SB5ljLqZlso)
 
-🎥![POST PUT DELETE Categories](https://www.youtube.com/watch?v=1O0LtFEks1o)
+🎥[POST PUT DELETE Categories](https://www.youtube.com/watch?v=1O0LtFEks1o)
 
-🎥![POST PUT DELETE Products](https://www.youtube.com/watch?v=wx0RgfW1xeE)
+🎥[POST PUT DELETE Products](https://www.youtube.com/watch?v=wx0RgfW1xeE)
 
-🎥![POST PUT DELETE Tags](https://www.youtube.com/watch?v=rArfPSaNfZs)
+🎥[POST PUT DELETE Tags](https://www.youtube.com/watch?v=rArfPSaNfZs)
 
 
 ## User Story
