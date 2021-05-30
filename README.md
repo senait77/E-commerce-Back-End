@@ -13,10 +13,11 @@
 </p>
    
 ## Description
+This app is the backend portion of an E-Commerce website. Express.js was used for the server and MySQL for the database along with Sequelize as the ORM to run SQL models and queries. The SQL database includes tables for products, categories, tags, and product tags. RESTful API routes are used to make requests and updates from the database which are joined through Sequelize queries.
 
 🔍 A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
   
-💻 Below is the gif showing the functionality of the application:
+💻 Below is the walkthrough showing the functionality of the application:
 
 
 🎥[GET All Categories products and tags](https://www.youtube.com/watch?v=jKRF7f0SeKQ&t=29s)
